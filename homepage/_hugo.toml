@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-de'
+title = 'ADA Öffentliche Verwaltung'
+theme = 'PaperMod'
+paginate = 5.0
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[homeInfoParams]
+Title = "Die wissenschaftliche Vorhersage zur Bundestagswahl 2021"
+  Content = "Wir sind ein [Team](posts/team) von Wahlforscher:innen der Universität Mannheim, der LMU München, der Hertie School Berlin und der HU Berlin.\n- Unser Ziel ist es, einem breiten Publikum mithilfe unseres statistischen Modells Informationen und Prognosen zur Bundestagswahl an die Hand zu geben, die über die Momentaufnahmen der politischen Stimmung durch Meinungsumfragen (bspw. „Sonntagsfragen“) hinausgehen.\n- Vorhersagen von zukünftigen Ereignissen, in diesem Fall dem Ausgang der Bundestagswahl, sind immer mit Unsicherheit behaftet. Daher ist es uns besonders wichtig, die Unsicherheit von Vorhersagemodellen wie dem von zweitstimme.org eindeutig und gut verständlich zu kommunizieren.\n- Diese Informationen können Journalist:innen, Expert:innen und Bürger:innen helfen, die tatsächliche Parteienunterstützung besser einzuschätzen, zu kommunizieren und letztlich besser informierte Wahlentscheidungen zu treffen.\n- Für die Bundestagswahl 2021 kooperieren wir mit der [Süddeutschen Zeitung](https://www.sueddeutsche.de/politik/bundestagswahl-prognose-vorhersage-1.5385101), auf deren Homepage regelmäßig [aktuelle Prognosen](https://gfx.sueddeutsche.de/apps/e342301/www/index.html) von zweitstimme.org veröffentlicht werden.\n- Unser Modell verknüpft historische Informationen zu Bundestagswahlen mit aktuellen Umfragedaten, die auf [wahlrecht.de](http://wahlrecht.de) veröffentlicht werden. Zweitstimme.org hat bereits wissenschaftlich fundierte [Prognosen zur Bundestagswahl 2017](http://2017.zweitstimme.org/index.html) geliefert und begleitet nun auch die Kampagne zur Bundestagswahl 2021.\n"
+
+  

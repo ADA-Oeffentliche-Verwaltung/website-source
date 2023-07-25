@@ -1,0 +1,98 @@
+baseURL = "https://ada-oeffentliche-verwaltung.github.io"
+title = "ADA Öffentliche Verwaltung"
+paginate = 5.0
+theme = ["PaperMod", "hugo-cite"]
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+defaultContentLanguage = 'de'
+
+[minify]
+disableXML = true
+
+[languages]
+
+
+
+  [languages.de]
+  languageName = "Deutsch"
+  contentDir = "content/de"
+  weight = 1.0
+  title = "ADA Öffentliche Verwaltung"
+
+    [languages.de.menu]
+
+      [[languages.de.menu.main]]
+      name = "SODA @ LMU München"
+      url = "https://www.soda.statistik.uni-muenchen.de/index.html"
+      weight = 5.0
+
+      [[languages.de.menu.main]]
+      name = "Heidi Seibold"
+      url = "https://heidiseibold.com"
+      weight = 7.0
+
+      [[languages.de.menu.main]]
+      name = "Team"
+      url = "posts/team"
+      weight = 10.0
+
+
+[outputs]
+home = [
+  "HTML",
+  "JSON"
+]
+
+[params]
+env = "production"
+description = "Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung"
+author = "ADA Team"
+defaultTheme = "auto"
+ShowShareButtons = false
+ShowReadingTime = false
+displayFullLangName = true
+ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = false
+images = [
+  "papermod-cover.png"
+]
+
+  [languages.de.homeInfoParams]
+  Title = "Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung"
+  Content = "<style>table.fixed {table-layout: fixed;width: 100%;} table.fixed td {overflow: hidden;}</style> In der öffentlichen Verwaltung liegen vielfältige Daten vor. Daneben gibt es eine Vielzahl öffentlich nutzbarer externer Datenquellen. Zusätzlich ist offene und frei verfügbare Software (zum Beispiel R oder Python)&#151;vom Daten sammeln, für statistische Analysen, Machine Learning Modelle, Anwendungen von Künstlicher Intelligenz, bis zum Ergebnisreporting&#151;der neue Standard in Wissenschaft und Industrie.\n- Die Kombination aus vielfältigen Datenquellen und vielseitiger Software birgt ein großes Potential für die öffentliche Verwaltung. Von den zahlreichen Nutzungsmöglichkeiten wurden bisher allerdings nur wenige realisiert.\n- In der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden.\n- Unser Ziel der Workshop Serie Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen, die Datenkompetenz stärken, und so zur verstärkten Umsetzung von Datenprojekten beitragen. Anhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\n-\n- Hier geht es direkt zu den Inhalten des Workshops:\n-"
+
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/ADA-Oeffentliche-Verwaltung"
+
+
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+
+  [markup.goldmark]
+
+    [markup.goldmark.renderer]
+    unsafe = true
+
+
+[services]
+
+  [services.instagram]
+  disableInlineCSS = true
+
+  [services.twitter]
+  disableInlineCSS = true

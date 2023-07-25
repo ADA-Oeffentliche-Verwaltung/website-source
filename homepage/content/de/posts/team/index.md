@@ -1,0 +1,81 @@
+---
+title: "Das Team hinter ADA Öffentliche Verwaltung"
+date: 2023-07-24T19:00:00+02:00
+draft: false
+---
+
+Wir sind ein Team aus Data Scientists und Statistiker:innen. Unser Ziel ist es, dazu beizutragen, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. <!--more--> Wir wollen Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen, die Datenkompetenz stärken, und so zur verstärkten Umsetzung von Datenprojekten beitragen. Anhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.
+
+<style>
+table.fixed {
+      table-layout: fixed;
+      width: 100%;
+    }
+table.fixed td {
+      overflow: hidden;
+    }
+</style>
+
+
+
+### Prof. Dr. Frauke Kreuter
+
+<table class="fixed">
+	<col width=50% />
+    <col width=50% />
+  <tr>
+    <td style="text-align:right"> <img src="img/frauke_profile_128.png"  style = "float:right" alt="Frauke Kreuter" height = 128px ></td>
+    <td>Frauke Kreuter ist Inhaberin des Lehrstuhls für Statistik und Datenwissenschaft an der LMU München, und an der University of Maryland, USA, ist sie Co-Direktorin des Social Data Science Center (SoDa) und Fakultätsmitglied im Joint Program in Survey Methodology (JPSM). Sie ist eine gewählte Fellow der American Statistical Association und erhielt 2020 den Warren Mitofsky Innovators Award der American Association for Public Opinion Research. Neben ihrer akademischen Arbeit ist Frauke Kreuter Gründerin des International Program for Survey and Data Science (IPSDS), das als Reaktion auf die steigende Nachfrage von Forscher:innen und Parktiker:innen nach geeigneten Methoden und Instrumenten für ein sich veränderndes Datenumfeld entwickelt wurde. Sie ist außerdem Mitbegründerin der Coleridge Initiative, deren Ziel es ist, datengestützte Forschung und Politik rund um den Menschen und seine Interaktionen für Programmmanagement, Politikentwicklung und wissenschaftliche Zwecke zu beschleunigen, indem ein effizienter, effektiver und sicherer Zugang zu sensiblen Daten über Gesellschaft und Wirtschaft ermöglicht wird; und Mitbegründerin des deutschsprachigen Podcasts Dig Deep.
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)</td>
+   </tr> 
+</table>
+
+
+### Dr. Heidi Seibold
+
+<table class="fixed">
+	<col width=50% />
+  <col width=50% />
+  <tr>
+  	<td>Heidi Seibold ist eine Solopreneure mit einem Fokus auf Open and Reproducible Research und unabhängige Wissenschaftlerin bei IGDORE. Sie ist eine Co-Gründerin von Open Science Freelancers. Ihre Forschung liegt in der Schnittmenge von Datenwissenschaft, Reproduzierbarkeit und Medizin. Heidi Seibolt hat Statistik studiert und in Biostatistik mit einem Schwerpunkt auf maschinellem Lernen promoviert. Sie ist der festen Überzeugung, dass Open Science der Weg ist, auf dem wir Wissenschaft betreiben sollten. </td>
+    <td style="text-align:center"> <img src="img/heidi.png" style = "float:left" alt="Heidi Seibold" height = 128px ></td>
+   </tr> 
+</table>
+
+### Dr. Malte Schierholz
+
+<table class="fixed">
+	<col width=50% />
+     <col width=50% />
+  <tr>
+  	<td style="text-align:center"> <img src="img/malte_schierholz_128.png" style = "float:right" alt="Malte Schierholz" height = 128px ></td>
+  	<td>Malte Schierholz ist Postdoktorand am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Er ist Teil des nationalen Forschungsdateninfrastruktur Projekts BERD@NFDI, wo er Schulungen für Sozialwissenschaftler:innen entwirft, die unstrukturierte (große) Daten wie Bilder und Textdaten für ihre Analysen nutzen wollen. Ein übergreifendes Thema von Malte Schierholz' Arbeit ist, dass er gerne darüber nachdenkt, wie Sozialwissenschaftler:innen die Versprechen und Vorteile des maschinellen Lernens am besten nutzen können.</td>
+    
+   </tr> 
+</table>
+
+### Dr. Marcel Neunhoeffer
+
+<table class="fixed">
+	<col width=50% />
+     <col width=50% />
+  <tr>
+  	<td>Marcel Neunhoeffer ist Postdoktorand am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Er forscht an der Schnittstelle von Sozialwissenschaften und Informatik. Marcel Neunhoeffer interessiert sich insbesondere für die Anwendung von Deep-Learning-Algorithmen auf sozialwissenschaftliche Problemstellungen. Sein Fokus liegt dabei auf dem Einsatz von synthetischen Daten und differential privacy um Datenanalyse und Datenschutz auszubalancieren. Darüber hinaus ist Marcel Neunhoeffer Mitbegründer, Mitwirkender und Visualisierer von zweitstimme.org - einer Website, die eine wissenschaftliche Prognose zur Bundestagswahl einem breiten Publikum vermittelt.
+    </td>
+    <td style="text-align:center"> <img src="img/marcel_profile_128.png" style = "float:left" alt="Marcel Neunhoeffer" height = 128px ></td>
+   </tr> 
+</table>
+
+### Felix Henninger
+
+<table class="fixed">
+	<col width=50% />
+     <col width=50% />
+  <tr>
+  	<td style="text-align:center"> <img src="img/felix_profile_128.jpg" style = "float:right" alt="Felix Henninger" height = 128px ></td>
+  	<td>Felix Henninger ist wissenschaftlicher Mitarbeiter am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Sein Ziel ist es, fortgeschrittene Methoden der Datenerfassung und -analyse für Forscher:innen und Praktiker:innen zugänglich zu machen. Ein Teil dieser Bemühungen besteht darin, spezialisierte Laborverfahren für eine breitere Anwendung zu übersetzen, wie z.B. die Analyse von Interaktionsmustern auf der Basis von Maus- und Eye-Tracking. In einem gemeinsamen, von der DFG geförderten Projekt mit Frauke Kreuter und Sonja Greven (HU Berlin) untersucht er die automatisierte Analyse von mausbasierten Paradaten in Umfragen. Ein zweiter Ansatz ist die Entwicklung von Forschungssoftware, die Werkzeuge zur einfacheren Bewältigung komplexer Aufgaben unter Einhaltung von Best Practices bereitstellt. Felix ist federführender Entwickler des lab.js Datenerhebungs-Frameworks für verteilte verhaltens-, kognitions- und neurowissenschaftliche Online-Forschung, das derzeit durch eine Industriekooperation mit der LMU finanziert wird. Felix Henninger pflegt außerdem mehrere R- und Python-Pakete wie mousetrap, readbulk und den Psych-DS-Metadatenstandard und trägt zu diesen bei. <br> Er ist ein begeisterter Verfechter von Open Science und hat die Open Scholarship Knowledge Base in Zusammenarbeit mit dem Center for Open Science initiiert. Er ist Gründungsmitglied des German Reproducibility Network, Mitorganisator des Mannheimer Open Science Meetups und Mitbegründer der Landau Open Science Working Group.</td>
+    
+   </tr> 
+</table>
+

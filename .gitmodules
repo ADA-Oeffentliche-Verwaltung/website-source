@@ -1,0 +1,3 @@
+[submodule "homepage/themes/themes/hugo-cite"]
+	path = homepage/themes/themes/hugo-cite
+	url = https://github.com/loup-brun/hugo-cite.git
