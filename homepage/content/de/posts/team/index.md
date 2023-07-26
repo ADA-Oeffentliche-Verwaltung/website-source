@@ -26,8 +26,7 @@ table.fixed td {
   <tr>
     <td style="text-align:right"> <img src="img/frauke_profile_128.png"  style = "float:right" alt="Frauke Kreuter" height = 128px ></td>
     <td>Frauke Kreuter ist Inhaberin des Lehrstuhls für Statistik und Datenwissenschaft an der LMU München, und an der University of Maryland, USA, ist sie Co-Direktorin des Social Data Science Center (SoDa) und Fakultätsmitglied im Joint Program in Survey Methodology (JPSM). Sie ist eine gewählte Fellow der American Statistical Association und erhielt 2020 den Warren Mitofsky Innovators Award der American Association for Public Opinion Research. Neben ihrer akademischen Arbeit ist Frauke Kreuter Gründerin des International Program for Survey and Data Science (IPSDS), das als Reaktion auf die steigende Nachfrage von Forscher:innen und Parktiker:innen nach geeigneten Methoden und Instrumenten für ein sich veränderndes Datenumfeld entwickelt wurde. Sie ist außerdem Mitbegründerin der Coleridge Initiative, deren Ziel es ist, datengestützte Forschung und Politik rund um den Menschen und seine Interaktionen für Programmmanagement, Politikentwicklung und wissenschaftliche Zwecke zu beschleunigen, indem ein effizienter, effektiver und sicherer Zugang zu sensiblen Daten über Gesellschaft und Wirtschaft ermöglicht wird; und Mitbegründerin des deutschsprachigen Podcasts Dig Deep.
-
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)</td>
+</td>
    </tr> 
 </table>
 
@@ -38,7 +37,7 @@ table.fixed td {
 	<col width=50% />
   <col width=50% />
   <tr>
-  	<td>Heidi Seibold ist eine Solopreneure mit einem Fokus auf Open and Reproducible Research und unabhängige Wissenschaftlerin bei IGDORE. Sie ist eine Co-Gründerin von Open Science Freelancers. Ihre Forschung liegt in der Schnittmenge von Datenwissenschaft, Reproduzierbarkeit und Medizin. Heidi Seibolt hat Statistik studiert und in Biostatistik mit einem Schwerpunkt auf maschinellem Lernen promoviert. Sie ist der festen Überzeugung, dass Open Science der Weg ist, auf dem wir Wissenschaft betreiben sollten. </td>
+  	<td>Heidi Seibold ist Trainerin und Beraterin für Open and Reproducible Research und unabhängige Wissenschaftlerin bei IGDORE. Sie ist eine Co-Gründerin von Open Science Freelancers. Ihre Forschung liegt in der Schnittmenge von Datenwissenschaft, Reproduzierbarkeit und Medizin. Heidi Seibold hat Statistik studiert und in Biostatistik mit einem Schwerpunkt auf maschinellem Lernen promoviert. In ihrem Podcast "reboot academia" und ihrem beliebten Newsletter spricht sie über Open Science, gute Wissenschaft und die Zukunft der Forschung. </td>
     <td style="text-align:center"> <img src="img/heidi.png" style = "float:left" alt="Heidi Seibold" height = 128px ></td>
    </tr> 
 </table>
