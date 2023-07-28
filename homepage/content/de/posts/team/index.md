@@ -69,12 +69,15 @@ table.fixed td {
 ### Felix Henninger
 
 <table class="fixed">
-	<col width=50% />
-     <col width=50% />
-  <tr>
-  	<td style="text-align:center"> <img src="img/felix_profile_128.jpg" style = "float:right" alt="Felix Henninger" height = 128px ></td>
-  	<td>Felix Henninger ist wissenschaftlicher Mitarbeiter am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Sein Ziel ist es, fortgeschrittene Methoden der Datenerfassung und -analyse für Forscher:innen und Praktiker:innen zugänglich zu machen. Ein Teil dieser Bemühungen besteht darin, spezialisierte Laborverfahren für eine breitere Anwendung zu übersetzen, wie z.B. die Analyse von Interaktionsmustern auf der Basis von Maus- und Eye-Tracking. In einem gemeinsamen, von der DFG geförderten Projekt mit Frauke Kreuter und Sonja Greven (HU Berlin) untersucht er die automatisierte Analyse von mausbasierten Paradaten in Umfragen. Ein zweiter Ansatz ist die Entwicklung von Forschungssoftware, die Werkzeuge zur einfacheren Bewältigung komplexer Aufgaben unter Einhaltung von Best Practices bereitstellt. Felix ist federführender Entwickler des lab.js Datenerhebungs-Frameworks für verteilte verhaltens-, kognitions- und neurowissenschaftliche Online-Forschung, das derzeit durch eine Industriekooperation mit der LMU finanziert wird. Felix Henninger pflegt außerdem mehrere R- und Python-Pakete wie mousetrap, readbulk und den Psych-DS-Metadatenstandard und trägt zu diesen bei. <br> Er ist ein begeisterter Verfechter von Open Science und hat die Open Scholarship Knowledge Base in Zusammenarbeit mit dem Center for Open Science initiiert. Er ist Gründungsmitglied des German Reproducibility Network, Mitorganisator des Mannheimer Open Science Meetups und Mitbegründer der Landau Open Science Working Group.</td>
-    
-   </tr> 
+   <col width=50% />
+   <col width=50% />
+   <tr>
+      <td style="text-align:center">
+         <img src="img/felix_profile_128.jpg" style = "float:right" alt="Felix Henninger" height="128px">
+      </td>
+      <td>
+         <a href="https://felixhenninger.com">Felix Henninger</a> ist wissenschaftlicher Mitarbeiter und Softwareentwickler am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Sein Ziel ist es, fortgeschrittene Methoden der Datenerfassung und -analyse für Forscher:innen und Praktiker:innen zugänglich zu machen.
+      </td>
+   </tr>
 </table>
 
